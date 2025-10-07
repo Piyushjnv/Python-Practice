@@ -10,6 +10,7 @@ By taking 4 different quadrants, i print the shape.
 
 Any suggestion for improvment , don't hesitate.
 
-<img width="540" height="380" alt="Figure_1" src="https://github.com/user-attachments/assets/9cc96847-9957-4b86-bb68-6527f841cd8e" />
+
+<img width="540" height="380" alt="circle" src="https://github.com/user-attachments/assets/ad34015a-9b75-4f29-aad8-9c40e5d5ae7c" />
 
 Thanks--

@@ -9,4 +9,6 @@ By taking 4 different quadrants, i print the shape.
 
 Any suggestion for improvment , don't hesitate.
 
-THANKS---
+<img width="540" height="380" alt="Figure_1" src="https://github.com/user-attachments/assets/9cc96847-9957-4b86-bb68-6527f841cd8e" />
+
+Thanks--

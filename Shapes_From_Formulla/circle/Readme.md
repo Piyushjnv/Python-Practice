@@ -1,4 +1,5 @@
-# DRAW CIRCLE USING EQUATION
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+#  DRAW CIRCLE USING EQUATION
 
 
 ### Using Circle equation = (x)^2 + (y)^2 = r^2
